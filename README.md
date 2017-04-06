@@ -1,0 +1,2 @@
+# bitco
+my bitco notes
